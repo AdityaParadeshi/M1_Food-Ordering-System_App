@@ -28,18 +28,18 @@ Strengths
 -Wide Coverage –  food ordering allows restaurants to have a wide coverage of customer requirements and food preferences.
 -Good Customer Support –  food ordering helps in gaining good customer support and works for their requirement and food preferences. It keeps changing food menus and tries to expand it with good customer support.
 
-Weakness
--Technology lags.
--Need of new merchant partners.
--possibility of wrong orders.
+Weakness:
+. Technology lags.
+. Need of new merchant partners.
+. possibility of wrong orders.
 
 Opportunities
-- Technology Advancements.
--Product/app improvement.
+. Technology Advancements.
+. Product/app improvement.
 
 Threats
--Change in economic Condition.
--Price Competation.
+. Change in economic Condition.
+. Price Competation.
 
 
 
