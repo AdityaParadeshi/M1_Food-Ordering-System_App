@@ -39,7 +39,7 @@ Opportunities
 
 Threats
 . Change in economic Condition.
-. Price Competation.
+. Price Compensation.
 
 
 
