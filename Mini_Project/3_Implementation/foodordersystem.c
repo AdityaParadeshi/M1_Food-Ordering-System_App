@@ -217,7 +217,7 @@ int order ()
     if (temp == 'y' || temp == 'Y')
         goto level;
     printf ("\nNumber of food ordered %d\n", p[order_count].number_of_food);
-    printf ("\nThank you %s for your order. Your bill is %dtk.\nPlease wait while we prepare the food.\n\n", p[order_count].name, p[order_count].cost);
+    printf ("\nThank you %s for your order. Your bill is %drs.\nPlease wait while we prepare the food.\n\n", p[order_count].name, p[order_count].cost);
     order_count ++;
 }
 int receive ()
@@ -247,7 +247,7 @@ void items ()
 {
     printf("..................................MENU....................................\n");
 
-    printf("Item Code#   Description-------------------Size--------------------Price(tk)\n");
+    printf("Item Code#   Description-------------------Size--------------------Price(rs)\n");
 
     printf("[11]---------Burger---------------------200/300gm------------------130/180\n");
     printf("[12]---------Chicken Pizza--------------12/14/16inch---------------750/975/1250\n");
@@ -286,8 +286,7 @@ int main ()
             case 4 : {
                 system ("COLOR 2");
                 printf ("We are closed come by again\n\n");
-                printf ("Project submitted by Team ERROR NOT FOUND\n\n");
-                printf ("Our hearty gratitude to honorable teacher\n\n");
+
             
              
                 return 0;

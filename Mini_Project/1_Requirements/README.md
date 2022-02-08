@@ -41,5 +41,14 @@ Threats
 . Change in economic Condition.
 . Price Compensation.
 
+High Level Requirements
+. Wireless food Order
+. price list
+. size of the items
+
+Low Level requirements
+. Customers have a mobile application that they use to view the menu of your restaurant or other    available restaurants in case of third party platforms.
+. Customers find a restaurant of their liking and select the food they want to order.
+
 
 
