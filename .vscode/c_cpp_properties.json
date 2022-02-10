@@ -3,7 +3,8 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Mini_Project/3_Implementation"
             ],
             "defines": [],
             "cStandard": "c17",

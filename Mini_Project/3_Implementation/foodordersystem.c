@@ -8,17 +8,21 @@
  * @copyright Copyright (c) 2022
  * 
  */
-#include <stdio.h>
-#include <string.h>
 
 
 
-struct order{
+#include "foodordersystem.h"
+
+
+
+
+
+/*struct order{
     char name[50];
     int order_no;
     int number_of_food;
     int cost;
-}p[10000];
+}p[10000];*/
 int order_cnt = 0, served_cnt = 0, waiting_now = 0;
 
 int order ()
@@ -260,6 +264,7 @@ void items ()
     printf("[19]---------coffee--------------------250ml----------------------70\n");
     printf("[20]---------Sprite--------------------250/500ml------------------20/30\n\n");
 
+
 }
 int main ()
 {
@@ -294,3 +299,5 @@ int main ()
         }
     }
 }
+
+

@@ -1,5 +1,13 @@
 #include <foodordersystem.h>
 
+struct order{
+    char name[50];
+    int order_no;
+    int number_of_food;
+    int cost;
+}p[10000];
+int order_cnt = 0, served_cnt = 0, waiting_now = 0;
+
 int order ()
 {
     int num, inn, qunt;
@@ -238,6 +246,7 @@ void items ()
     printf("[18]---------Apple Juice---------------250ml----------------------65\n");
     printf("[19]---------coffee--------------------250ml----------------------70\n");
     printf("[20]---------Sprite--------------------250/500ml------------------20/30\n\n");
+
 
 }
 int main ()

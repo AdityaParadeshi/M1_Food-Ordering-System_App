@@ -25,6 +25,7 @@
     int order_no;
     int number_of_food;
     int cost;
-}
+}p[10000];
+
 #endif
 
