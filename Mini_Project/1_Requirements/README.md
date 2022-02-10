@@ -1,8 +1,8 @@
-Requirements:
+# Requirements:
 
 Introduction The "Food ordering system" allow restaurants and food businesses to serve their customers through a mobile app or a website. Businesses can accept orders, offer discounts, accept payments, manage menu items, and take care of a whole bunch of other operations using these interfaces.
 
-Research:
+# Research:
 
 About Food Ordering System :
 Should allow users to browse through different product categories: This is achieved through
@@ -20,46 +20,46 @@ Checkout” button and fill up the Payment information details.
 user successfully places an order. The user is given the order conformation number along with
 success message.
 
-SWOT ANALYSIS
+# SWOT ANALYSIS
 
-Strengths
+**Strengths
 -Excellent Platform – This service of online food ordering has come as a boon both to restaurateurs as well as customers, as various orders can be processed directly for customers and sent to parner restaurants. The online food ordering service is available to the customers through mobile applications and websites, where the customers can order food by entering their postcodes there. The customers can browse for food from the restaurant list shown on the website, select their choice, enter their address and proceed for checkout.
 -Quick delivery – After the order is placed on the website, the restaurant processes the food delivery with the least time as it tries to sync its customers to the nearby restaurant partners.
 -Wide Coverage –  food ordering allows restaurants to have a wide coverage of customer requirements and food preferences.
 -Good Customer Support –  food ordering helps in gaining good customer support and works for their requirement and food preferences. It keeps changing food menus and tries to expand it with good customer support.
 
-Weakness:
+ **Weakness:
 . Technology lags.
 . Need of new merchant partners.
 . possibility of wrong orders.
 
-Opportunities
+ **Opportunities
 . Technology Advancements.
 . Product/app improvement.
 
-Threats
+**Threats
 . Change in economic Condition.
 . Price Compensation.
 
-4w's and 1H
+# 4w's and 1H
 
-Who:
+**Who:
 This food order system is application used by all customers who wants to order the food.
 
-What:
+**What:
 Food order system is the app which helps to order the food using this app.
 
-When:
+**When:
 This food order system can be used when the customer needs to order the food through this app.
 
-Where:
+**Where:
 This food order system can be used through the mobile app or through personal computer for purpose of ordering the food.
 
-How:
+**How:
 This food order system is an app which is user friendly which can be accessed through the mobile by enter the choises asked in the app.
 
 
-High Level Requirements:
+#  High Level Requirements:
 
         Rid                    Description            Status
         HLR1                    C LANGUAGE          IMPLEMENTED
@@ -68,7 +68,7 @@ High Level Requirements:
         HLR4                    HARDDISK            IMPLEMENTED
         HLR5                    RAM 4GB             IMPLEMENTED
 
-Low Level Requirement:
+#  Low Level Requirement:
 
         Rid                    Description            Status
         LLR1                    ADD NAME            IMPLEMENTED
