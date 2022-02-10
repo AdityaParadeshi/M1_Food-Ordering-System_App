@@ -41,14 +41,47 @@ Threats
 . Change in economic Condition.
 . Price Compensation.
 
-High Level Requirements
-. Wireless food Order
-. price list
-. size of the items
+4w's and 1H
 
-Low Level requirements
-. Customers have a mobile application that they use to view the menu of your restaurant or other    available restaurants in case of third party platforms.
-. Customers find a restaurant of their liking and select the food they want to order.
+Who:
+This food order system is application used by all customers who wants to order the food.
+
+What:
+Food order system is the app which helps to order the food using this app.
+
+When:
+This food order system can be used when the customer needs to order the food through this app.
+
+Where:
+This food order system can be used through the mobile app or through personal computer for purpose of ordering the food.
+
+How:
+This food order system is an app which is user friendly which can be accessed through the mobile by enter the choises asked in the app.
+
+
+High Level Requirements:
+
+        Rid                    Description            Status
+        HLR1                    C LANGUAGE          IMPLEMENTED
+        HLR2                    OS WINDOWS          IMPLEMENTED
+        HLR3                    OS LINUX            IMPLEMENTED
+        HLR4                    HARDDISK            IMPLEMENTED
+        HLR5                    RAM 4GB             IMPLEMENTED
+
+Low Level Requirement:
+
+        Rid                    Description            Status
+        LLR1                    ADD NAME            IMPLEMENTED
+        LLR2              CHOOSE ITEMS FROM MENU    IMPLEMENTED
+        LLR3                  CHOOSE QUANTITY       IMPLEMENTED
+        LLR4                 ACCEPT THE ORDER       IMPLEMENTED
+        LLR5                   DISPLAY BILL         IMPLEMENTED
+    
+
+
+
+
+
 
 
 
