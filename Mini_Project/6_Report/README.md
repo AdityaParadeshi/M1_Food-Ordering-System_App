@@ -80,6 +80,8 @@ LLR1 |ADD NAME |IMPLEMENTED |
 |LLR5 |DISPLAY BILL|IMPLEMENTED |
     
 # Behavioural Diagram:
+![Behavioural](https://user-images.githubusercontent.com/82751022/153570222-db7c0605-e6d3-4445-a742-4a19bcb7573f.png)
+
 
 
 
