@@ -84,6 +84,12 @@ LLR1 |ADD NAME |IMPLEMENTED |
 
 
 
+# Case Diagram
+![usecase](https://user-images.githubusercontent.com/82751022/153570610-46ae8c2a-ba93-4ded-97a3-dfc9fd6e954e.png)
+
+
+
+
 
 
 
