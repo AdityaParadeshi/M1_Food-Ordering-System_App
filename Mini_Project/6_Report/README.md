@@ -117,6 +117,10 @@ LLR1 |ADD NAME |IMPLEMENTED |
 |LLT1 |Display of each item |item displayed |all items added are displayed  |all items added are displayed |pass |  
 |LLT2 |Display quantity of each items |Quantity displayed are added |all item quantity are added |all item quantity are added |pass |
 |LLT3 |Display Size of each items |Size displayed are added |all item Sizes are added |all item Sizes are added |pass |
+
+# Tested Output
+![output foodorder](https://user-images.githubusercontent.com/82751022/153588976-edf19ef8-d730-4e2d-9cfd-0f04b0461857.PNG)
+
                                                                
 
 
