@@ -61,23 +61,23 @@ This food order system is an app which is user friendly which can be accessed th
 
 #  High Level Requirements:
 
-        Rid                     Description            Status
-        HLR1                    C LANGUAGE          IMPLEMENTED
-        HLR2                    OS WINDOWS          IMPLEMENTED
-        HLR3                    OS LINUX            IMPLEMENTED
-        HLR4                    HARDDISK            IMPLEMENTED
-        HLR5                    RAM 4GB             IMPLEMENTED
+  |Rid |Description |Status |
+|---- |----|----|
+|HLR1 |C LANGUAGE |IMPLEMENTED |
+|HLR2 |OS WINDOWS |IMPLEMENTED |
+|HLR3 |OS LINUX |IMPLEMENTED |
+|HLR4 |HARDDISK |IMPLEMENTED |
+|HLR5 |RAM 4GB |IMPLEMENTED |
 
 #  Low Level Requirement:
 
-        Rid                    Description            Status
-        LLR1                    ADD NAME            IMPLEMENTED
-        LLR2              CHOOSE ITEMS FROM MENU    IMPLEMENTED
-        LLR3                  CHOOSE QUANTITY       IMPLEMENTED
-        LLR4                 ACCEPT THE ORDER       IMPLEMENTED
-        LLR5                   DISPLAY BILL         IMPLEMENTED
-    
-
+|Rid |Description |Status |
+|---- |---- |----|
+LLR1 |ADD NAME |IMPLEMENTED |
+|LLR2 |CHOOSE ITEMS FROM MENU |IMPLEMENTED |
+|LLR3 |CHOOSE QUANTITY |IMPLEMENTED |
+|LLR4 |ACCEPT THE ORDER |IMPLEMENTED |
+|LLR5 |DISPLAY BILL|IMPLEMENTED |
 
 
 
