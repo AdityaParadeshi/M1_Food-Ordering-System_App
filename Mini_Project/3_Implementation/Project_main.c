@@ -1,11 +1,11 @@
-#include <foodordersystem.h>
+#include "foodordersystem.h"
 
-struct order{
+/*struct order{
     char name[50];
     int order_no;
     int number_of_food;
     int cost;
-}p[10000];
+}p[10000];*/
 int order_cnt = 0, served_cnt = 0, waiting_now = 0;
 
 int order ()
@@ -282,3 +282,5 @@ int main ()
         }
     }
 }
+
+
