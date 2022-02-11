@@ -87,6 +87,11 @@ LLR1 |ADD NAME |IMPLEMENTED |
 # Case Diagram
 ![usecase](https://user-images.githubusercontent.com/82751022/153570610-46ae8c2a-ba93-4ded-97a3-dfc9fd6e954e.png)
 
+# Structural Diagram
+## High Level
+![highlevel](https://user-images.githubusercontent.com/82751022/153571298-8c64937b-b072-4c07-b525-f00f4113e4fe.png)
+
+
 
 
 
