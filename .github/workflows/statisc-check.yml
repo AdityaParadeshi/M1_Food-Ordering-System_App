@@ -16,7 +16,7 @@ jobs:
     - name: Install
       run: sudo apt-get install cppcheck
     - name: Static Analysis
-      run: cppcheck --enableall 3_Implementation
+      run: cppcheck --enable=all 3_Implementation
     - name: make check
       run: make check
     - name: make distcheck
