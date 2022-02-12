@@ -1,4 +1,4 @@
-name: cppcheckI
+name: Build-linux
 
 on:
   push:
@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install
-      run: sudo apt-get install cppcheck
-    - name: Static Analysis
-      run: cppcheck --enable 3_Implementation
+    - name: make
+      run: make Run -c 3_Implementation
    
