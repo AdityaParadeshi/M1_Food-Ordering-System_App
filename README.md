@@ -10,6 +10,10 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/90e8726ee0114003bf614ed4154a74d0)](https://www.codacy.com/gh/AdityaParadeshi/M1_Food-Ordering-System_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdityaParadeshi/M1_Food-Ordering-System_App&amp;utm_campaign=Badge_Grade)
 
+# cppcheck
+
+[![Cppcheck](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml)
+
 
 
 
