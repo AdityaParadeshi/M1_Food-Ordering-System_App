@@ -14,6 +14,10 @@
 
 [![Cppcheck](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml)
 
+# Build linux
+
+[![Build-linux](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml)
+
 
 
 
