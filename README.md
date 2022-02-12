@@ -1,5 +1,7 @@
 # M1_Food-Ordering-System_App
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4794b897a4b3439283fd67519bee5dc4)](https://app.codacy.com/gh/AdityaParadeshi/M1_Food-Ordering-System_App?utm_source=github.com&utm_medium=referral&utm_content=AdityaParadeshi/M1_Food-Ordering-System_App&utm_campaign=Badge_Grade_Settings)
+
 
 
 
