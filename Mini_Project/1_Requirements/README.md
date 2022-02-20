@@ -43,20 +43,20 @@ success message.
 
 # 4w's and 1H
 
-**Who:**
-This food order system is application used by all customers who wants to order the food.
+# Who:
+- This food order system is application used by all customers who wants to order the food.
 
-**What:**
-Food order system is the app which helps to order the food using this app.
+# What
+- Food order system is the app which helps to order the food using this app.
 
-**When:**
-This food order system can be used when the customer needs to order the food through this app.
+# When:
+- This food order system can be used when the customer needs to order the food through this app.
 
-**Where:**
-This food order system can be used through the mobile app or through personal computer for purpose of ordering the food.
+# Where:
+- This food order system can be used through the mobile app or through personal computer for purpose of ordering the food.
 
-**How:**
-This food order system is an app which is user friendly which can be accessed through the mobile by enter the choises asked in the app.
+# How:
+- This food order system is an app which is user friendly which can be accessed through the mobile by enter the choises asked in the app.
 
 
 #  High Level Requirements:
