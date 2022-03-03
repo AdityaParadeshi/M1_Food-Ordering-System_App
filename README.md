@@ -15,8 +15,9 @@
 [![Cppcheck](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/static_check.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/static_check.yml)
 
 # Build linux
+[![Build-Linux](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build_Linux.yml)
 
-[![Build-linux](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml)
+
 
 # Unity test
 [![Unit Testing - Unity](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/unity.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/unity.yml)
