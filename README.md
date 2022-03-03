@@ -18,6 +18,9 @@
 
 [![Build-linux](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Build-linux.yml)
 
+# Unity test
+[![Unit Testing - Unity](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/unity.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/unity.yml)
+
 
 
 
