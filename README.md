@@ -12,7 +12,7 @@
 
 # cppcheck
 
-[![Cppcheck](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/Static-check.yml)
+[![Cppcheck](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/static_check.yml/badge.svg)](https://github.com/AdityaParadeshi/M1_Food-Ordering-System_App/actions/workflows/static_check.yml)
 
 # Build linux
 
